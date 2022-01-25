@@ -9,7 +9,7 @@ Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am current
 Skills: PYTHON / HTML 
 
 - 🔭 I’m currently working on JPMorgan Software Engineering Virtual Experience
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning 3D Modelling (Blender)
 - 👯 I’m looking to collaborate on internships
 - 🤔 I’m looking for help with efficient coding / competitive coding
 - 💬 Ask me about Tech Stuffs.
