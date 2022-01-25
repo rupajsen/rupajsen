@@ -15,3 +15,6 @@ Skills: PYTHON / HTML
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep a lot
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rupajsen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rupajsen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_rupaj_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RupajSen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqk_5c02wxvxADh5UEvtkJg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/applemusic.svg' alt='applemusic' height='40'>](https://music.apple.com/profile/rupajsen)  
