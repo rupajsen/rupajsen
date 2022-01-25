@@ -8,7 +8,7 @@ Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am current
 
 Skills: PYTHON / HTML 
 
-- 🔭 I’m currently working on JPMorgan Software Engineering Virtual Experience <a href="https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=HRimwPzd9FqnJSb79">JPMorgan Software Engineering Virtual Experience</a>
+- 🔭 I’m currently working on JPMorgan Software Engineering Virtual Experience <a href="https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program?ref=HRimwPzd9FqnJSb79">JPMorgan Virtual Experience</a>
 - 🌱 I’m currently learning 3D Modelling (Blender)
 - 👯 I’m looking to collaborate on internships
 - 🤔 I’m looking for help with efficient coding / competitive coding
