@@ -16,9 +16,7 @@ Skills: PYTHON / HTML
 - ⚡ Fun fact: I sleep a lot
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rupajsen)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rupajsen)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen)  
 
