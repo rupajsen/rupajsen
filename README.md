@@ -7,7 +7,7 @@
 Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
 
 <h3 align="left">Languages :</h3>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
 
