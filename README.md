@@ -19,7 +19,7 @@ Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am current
 
   
 
-<h3 align="left">Tools :</h3>
+<h3 align="left">Education :</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" <a/>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" <a/>
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" <a/>
