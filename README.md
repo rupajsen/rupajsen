@@ -2,7 +2,7 @@
 
 
 
-![Input-->Process-->Output](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Rupaj's GitHub Banner](banner.png)
 
 Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
 
