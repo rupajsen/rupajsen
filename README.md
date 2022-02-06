@@ -6,8 +6,16 @@
 
 Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<h3 align="left">Languages :</h3>
+<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+
+
+
+<h3 align="left">Tools :</h3>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" </a>
+
+
+
 
 
 - 🔭 I’m currently working on <a href="https://github.com/rupajsen/rupajsen.github.io">Portfolio Website</a>
