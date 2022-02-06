@@ -1,10 +1,17 @@
-<h1 align="center">     Hi there 👋,  I'm Rupaj     </h1>
 
 
+<h1 align="center"> 👋 Hello !! </h1>
+<div align="center">
+  <img src="https://github.com/rupajsen/rupajsen/blob/main/animated.gif" alt="header"/>
+</div>
 
-![Rupaj's GitHub Banner](banner.png)
+<h2 align="center"><a href="https://rupajsen.github.io/">Portfolio</h2> <a/>
+  
+<p align="center">
+  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
+  </samp>
 
-Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
+
 
 <h3 align="left">Languages :</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
