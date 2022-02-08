@@ -46,7 +46,10 @@
   
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Swift   52 mins         ███████████▓░░░░░░░░░░░░░   46.74 % 
+C       24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
+Cocoa   21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+HTML    12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 <!--END_SECTION:waka-->  
   
