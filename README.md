@@ -48,6 +48,8 @@
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen)  
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&show_icons=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/rupajsen)  
 
