@@ -45,7 +45,9 @@
 - ⚡ Fun fact: I sleep a lot
   
 <!--START_SECTION:waka-->
-  
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->  
   
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
