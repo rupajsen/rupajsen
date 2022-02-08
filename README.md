@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 👋 Hello !! </h1>
+<h1 align="center">  Hello <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 <div align="center">
   <img src="https://github.com/rupajsen/rupajsen/blob/main/animated.gif" alt="header"/>
 </div>
