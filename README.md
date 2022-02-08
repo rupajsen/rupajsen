@@ -43,6 +43,11 @@
 - 📫 How to reach me: <a href="https://twitter.com/@RupajSen">My Twitter</a> :  <a href="https://linkedin.com/in/rupajsen/">My LinkedIn </a>  :   <a href="https://instagram.com/_rupaj_/">My Instagram </a> 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep a lot
+  
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->  
+  
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
 
 
