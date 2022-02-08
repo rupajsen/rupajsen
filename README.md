@@ -43,13 +43,13 @@
 - 📫 How to reach me: <a href="https://twitter.com/@RupajSen">My Twitter</a> :  <a href="https://linkedin.com/in/rupajsen/">My LinkedIn </a>  :   <a href="https://instagram.com/_rupaj_/">My Instagram </a> 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep a lot
-<img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=dark)  
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&show_icons=true&theme=dark)
 
 ![Profile views](https://gpvc.arturio.dev/rupajsen)  
 
