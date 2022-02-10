@@ -60,7 +60,6 @@ HTML    12 mins         ██░░░░░░░░░░░░░░░░�
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
 
 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=dark)  
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&show_icons=true&theme=dark)
