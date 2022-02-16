@@ -50,11 +50,9 @@
   
 <!--START_SECTION:waka-->
 ```text
-Total: 53 mins
+Total: 4 mins
 
-C       48 mins         ██████████████████████▓░░   90.46 % 
-Cocoa   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Swift   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+C   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->  
   
