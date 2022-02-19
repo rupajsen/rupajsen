@@ -50,8 +50,6 @@
   
 <!--START_SECTION:waka-->
 ```text
-Total: 4 mins
-
 C   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->  
