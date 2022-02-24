@@ -2,7 +2,7 @@
 
 <h1 align="center">  Hello <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 <div align="center">
-  <img src="https://github.com/rupajsen/rupajsen/blob/main/animated.gif" alt="header"/>
+  <img src="https://github.com/rupajsen/rupajsen/blob/main/Blue%20Gradient%20Modern%20Corporate%20Computer%20and%20Technology%20LinkedIn%20Banner.png" alt="header"/>
 </div>
 
 <h2 align="center"><a href="https://rupajsen.github.io/">Portfolio</h2> <a/>
