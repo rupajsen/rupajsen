@@ -58,8 +58,7 @@ C   1 hr 29 mins    ████████████████████
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=dark)  
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&show_icons=true&theme=dark)
+
 
 ![Profile views](https://gpvc.arturio.dev/rupajsen)  
 
