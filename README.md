@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C   2 hrs 1 min     █████████████████████████   100.00 %
+C   1 hr 41 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->  
