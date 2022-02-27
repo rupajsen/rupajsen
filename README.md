@@ -49,9 +49,11 @@
   
   
 <!--START_SECTION:waka-->
+
 ```text
-C   2 hrs 1 min     █████████████████████████   100.00 % 
+C   2 hrs 1 min     █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->  
   
 <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
