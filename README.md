@@ -8,7 +8,7 @@
 <h2 align="center"><a href="https://rupajsen.github.io/">Portfolio</h2> <a/>
   
 <p align="center">
-  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a first-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
+  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a second-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
   </samp>
 
 
@@ -35,8 +35,8 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/rupajsen/rupajsen.github.io">Portfolio Website</a>
-- 🌱 I’m currently learning C Programming 
+- 🔭 I’m currently working on <a href="https://github.com/rupajsen/rupajsen.github.io">iOS App Dev Projects</a>
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on internships
 - 🤔 I’m looking for help with efficient coding / competitive coding
 - 💬 Ask me about Tech Stuffs.
