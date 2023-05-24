@@ -54,11 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 min           ██████████████████░░░░░░░   71.79 %
-Python     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-CSV        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-XML        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
