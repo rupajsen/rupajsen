@@ -8,7 +8,7 @@
 <h2 align="center"><a href="https://rupajsen.vercel.app/">Portfolio</h2> <a/>
   
 <p align="center">
-  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a second-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
+  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a third-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
   </samp>
 
 
@@ -64,8 +64,7 @@ No activity tracked
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=dark)  
 
-
-![Profile views](https://gpvc.arturio.dev/rupajsen)  
+ 
 
 
 
@@ -74,5 +73,5 @@ No activity tracked
 <p align="left">
 <a href="https://twitter.com/@RupajSen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RupajSen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupajsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupajsen" height="30" width="40" /></a>
-<a href="https://instagram.com/_rupaj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rupaj_" height="30" width="40" /></a>
+<a href="https://instagram.com/rupaj_sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rupaj_" height="30" width="40" /></a>
 </p>
