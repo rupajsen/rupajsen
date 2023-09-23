@@ -54,11 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart           1 hr 53 mins    ████████████████████▓░░░░   83.08 %
-HTML           8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-ActionScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-XML            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
