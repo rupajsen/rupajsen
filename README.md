@@ -5,7 +5,7 @@
   <img src="https://github.com/rupajsen/rupajsen/blob/main/Blue%20Gradient%20Modern%20Corporate%20Computer%20and%20Technology%20LinkedIn%20Banner.png" alt="header"/>
 </div>
 
-<h2 align="center"><a href="https://drive.google.com/file/d/1DGo-KuWnu-mmXXkmamPD8r7tpgeXV27i/view?usp=sharing">Portfolio</h2> <a/>
+<h2 align="center"><a href="https://drive.google.com/file/d/11Oa9db1MNbaLGNfjLZi7W-TZpxWYOHXG/view?usp=sharing">Portfolio</h2> <a/>
   
 <p align="center">
   <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a third-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
