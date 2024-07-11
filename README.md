@@ -8,7 +8,7 @@
 <h2 align="center"><a href="https://drive.google.com/file/d/11Oa9db1MNbaLGNfjLZi7W-TZpxWYOHXG/view?usp=sharing">Portfolio</h2> <a/>
   
 <p align="center">
-  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a third-year B.Tech student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
+  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a final year student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
   </samp>
 
 
