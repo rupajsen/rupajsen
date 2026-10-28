@@ -1,77 +1,65 @@
+<h1 align="center">Hi, I'm Rupaj Sen 👋</h1>
 
-
-<h1 align="center">  Hello <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 <div align="center">
   <img src="https://github.com/rupajsen/rupajsen/blob/main/Blue%20Gradient%20Modern%20Corporate%20Computer%20and%20Technology%20LinkedIn%20Banner.png" alt="header"/>
 </div>
 
-<h2 align="center"><a href="https://drive.google.com/file/d/11Oa9db1MNbaLGNfjLZi7W-TZpxWYOHXG/view?usp=sharing">Portfolio</h2> <a/>
-  
 <p align="center">
-  <samp>Hi I'm Rupaj Sen from India, and I solve problems in creative ways. I am currently a final year student pursuing Computer Science and Engineering at SRM University. Aspiring to become a good professional.
-  </samp>
-
-
-
-<h3 align="left">Languages :</h3>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  <b>ServiceNow Developer</b> · iOS Developer · AI Enthusiast<br/>
+  📍 Siliguri, West Bengal, India · B.Tech CSE, SRM University
 </p>
 
-<h3 align="left">Tools :</h3>
-<p align="left"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" </a>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" <a/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" <a/>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" <a/>
+<p align="center">
+  <a href="https://rupajsen.vercel.app/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/rupajsen/">LinkedIn</a>
+</p>
 
-  
+---
 
-<h3 align="left">Education :</h3>
-<p align="left"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" <a/>
-<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" <a/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" <a/>
+### 🧑‍💻 About me
 
+- 🛠️ I build apps on the **ServiceNow** platform: scoped applications, portals, workflows and automation with the ServiceNow SDK (Fluent)
+- 📱 Before that I spent a lot of time building **iOS apps** with Swift and SwiftUI, and I still do on the side
+- 🤖 Interested in **AI** and how it can make everyday tools smarter
+- 🎓 Graduated in Computer Science and Engineering from SRM University
+- 🤝 Open to collaborating on ServiceNow, iOS or AI projects
 
+### 🚀 Featured projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| [wedding-guest-manager](https://github.com/rupajsen/wedding-guest-manager) | ServiceNow scoped app for wedding invitations and RSVPs: token-based guest portal, host dashboard, reminders and Excel import | ServiceNow, JavaScript, HTML |
+| [LocalEatz](https://github.com/rupajsen/LocalEatz) | iOS app for discovering local food spots, with its own [API](https://github.com/rupajsen/Local-Eatz-API) | Swift, JavaScript |
+| [HMS](https://github.com/rupajsen/HMS) | iOS management system app | Swift |
+| [MyAssist](https://github.com/rupajsen/MyAssist) | An assistant app for iOS | Swift |
+| [Facial-Recognition-System](https://github.com/rupajsen/Facial-Recognition-System) | Automated attendance using facial recognition | Python |
 
+### 🧰 Tech stack
 
-- 🔭 I’m currently working on <a href="https://github.com/rupajsen/rupajsen.github.io">iOS App Dev Projects</a>
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on internships
-- 🤔 I’m looking for help with efficient coding / competitive coding
-- 💬 Ask me about Tech Stuffs.
-- 📫 How to reach me: <a href="https://twitter.com/@RupajSen">My Twitter</a> :  <a href="https://linkedin.com/in/rupajsen/">My LinkedIn </a>  :   <a href="https://instagram.com/_rupaj_/">My Instagram </a> 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I sleep a lot
- 
-
-<h3 align="left">Coding Stats :  
-  
-  
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->  
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark">
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&show_icons=true&theme=dark)  
-
- 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@RupajSen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RupajSen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rupajsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupajsen" height="30" width="40" /></a>
-<a href="https://instagram.com/rupaj_sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rupaj_" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupajsen&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupajsen&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages"/>
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupajsen&theme=dark&hide_border=true" alt="GitHub streak stats"/>
